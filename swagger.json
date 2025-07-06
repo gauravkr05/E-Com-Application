@@ -34,7 +34,7 @@
       "post": {
         "tags": ["Users"],
         "summary": "Login",
-        "description": "User login to get token",
+        "description": "User login to get the token",
         "parameters": [
           {
             "in": "body",
